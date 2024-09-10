@@ -15,7 +15,6 @@ This project implements real-time hand tracking using the `mediapipe` library an
 - [Files](#files)
 - [Potential Improvements](#potential-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
