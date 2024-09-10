@@ -42,7 +42,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/HandGestureMouseControl.git
+   git clone https://github.com/parth-agrawall/Hand-Tracking-and-Gesture-AI-Mouse-Controlling-System.git
    ```
 
 2. Navigate into the project directory:
