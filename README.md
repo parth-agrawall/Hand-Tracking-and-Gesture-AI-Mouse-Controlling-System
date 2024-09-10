@@ -121,5 +121,3 @@ If you would like to contribute to this project, feel free to open an issue or s
 
 
 ---
-
-This `README.md` file provides a clear overview, installation instructions, and usage details, making it easy for others to understand and use your project.
